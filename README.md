@@ -16,10 +16,7 @@ The class distribution (≈71% ham, 29% spam) introduces moderate imbalance. Thi
 Spam detection is a well-studied problem with extensive literature and benchmarks. This enables comparison with established methods and contextualization of results.
 
 •	Suitable for end-to-end machine learning workflow
-The dataset supports a complete pipeline, including:
-  o	Exploratory Data Analysis (EDA) and visualization
-  o	Feature engineering (Bag-of-Words, TF-IDF, n-grams, stopword removal)
-  o	Model comparison (e.g., MultinomialNB, Logistic Regression, Linear SVM, Random Forest)
-  o	Hyperparameter tuning and imbalance handling
-  o	Model interpretation (e.g., feature importance, confusion matrix analysis)
+The dataset supports a complete pipeline, including: 
+
+Exploratory Data Analysis (EDA) and visualization, Feature engineering (Bag-of-Words, TF-IDF, n-grams, stopword removal), Model comparison (e.g., MultinomialNB, Logistic Regression, Linear SVM, Random Forest), Hyperparameter tuning and imbalance handling, Model interpretation (e.g., feature importance, confusion matrix analysis)
 
